@@ -8,6 +8,8 @@ Secure, self-contained, more than monitoring. Inspect topics, manage configurati
 
 Be an early adopter and sign-up for an [unlimited, free trial](https://operatr.io/#/get-operatr) until 14 December, 2019.
 
+Take [two minutes to evaluate OPERATR](https://operatr.io) locally with docker-compose.
+
 Launching November 2019, from $50/month.
 
 # Community
