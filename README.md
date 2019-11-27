@@ -6,11 +6,9 @@ Works with Kafka 1.0+. On premise, in the cloud, self-managed, or hosted. See th
 
 Secure, self-contained, more than monitoring. Inspect topics, manage configuration, manage ACLs, integrate with Enterprise Monitoring, and deploy behind firewalls. Clip OPERATR on to a Kafka cluster for immediate value results.
 
-Be an early adopter and sign-up for an [unlimited, free trial](https://operatr.io/#/get-operatr) until 14 December, 2019.
+Take an [unlimited, free trial](https://operatr.io/#/get-operatr) on us until February 2020.
 
-Take [two minutes to evaluate OPERATR](https://github.com/operatr-io/local) locally with docker-compose.
-
-Launching November 2019, from $50/month.
+Evaluate OPERATR locally in [two minutes](https://github.com/operatr-io/local) with docker-compose.
 
 # Community
 
