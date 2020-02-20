@@ -16,4 +16,4 @@ All requests and/or issues welcome, just [raise a ticket](https://github.com/ope
 
 For any other requests, [get in touch](mailto:support@operatr.io) or [follow us on Twitter](https://twitter.com/operatr_io).
 
-Copyright © OPERATR 2019.
+Copyright © OPERATR 2020.
