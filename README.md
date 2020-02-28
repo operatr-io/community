@@ -1,6 +1,6 @@
 # [OPERATR](https://operatr.io) for Apache Kafka®
 
-Observe, explore, and control your streaming compute with one simple tool.
+A toolkit for Apache Kafka®. Simple, secure, and self-contained support for Streaming Compute.
 
 Works with Kafka 1.0+. On premise, in the cloud, self-managed, or hosted. See the installation guide for more.
 
