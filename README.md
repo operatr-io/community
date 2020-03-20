@@ -4,7 +4,9 @@ A toolkit for Apache Kafka®. Simple, secure, and self-contained support for Str
 
 Works with Kafka 1.0+. On premise, in the cloud, self-managed, or hosted. See the installation guide for more.
 
-Secure, self-contained, more than monitoring. Inspect topics, manage configuration, manage ACLs, integrate with Enterprise Monitoring, and deploy behind firewalls. Clip OPERATR on to a Kafka cluster for immediate value results.
+Inspect topics, produce new messages, full integration with Schema Registry + AVRO.
+
+Deep dive into lag telemetry completely unique to OPERATR - like lag by consumer host.
 
 Sign up for a [free 30-day trial](https://operatr.io/) today.
 
